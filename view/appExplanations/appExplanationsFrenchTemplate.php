@@ -40,7 +40,7 @@ include(dirname(__FILE__).'/setAppExplanationsVariables.php');
                         <img src="<?=$img.'/appExplanations/sign-up.jpg'?>">       
                         <figcaption>
                             <p>
-                                Pour s'inscrire remplisser le formulaire dans la zone 1.
+                                Pour s'inscrire remplissez le formulaire dans la zone 1.
                             </p>
                             <p>
                                 Un code, entré dans la zone 2, permet de vérifier que le compte est bien crée par un humain.
